@@ -1,0 +1,13 @@
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\bin\Debug\PoGoPlusEncryptionTest.exe
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\bin\Debug\PoGoPlusEncryptionTest.pdb
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\PoGoPlusEncryptionTest.csprojResolveAssemblyReference.cache
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\MainWindow.g.cs
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\App.g.cs
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\PoGoPlusEncryptionTest_MarkupCompile.cache
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\PoGoPlusEncryptionTest_MarkupCompile.lref
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\MainWindow.baml
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\PoGoPlusEncryptionTest.g.resources
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\PoGoPlusEncryptionTest.Properties.Resources.resources
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\PoGoPlusEncryptionTest.csproj.GenerateResource.Cache
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\PoGoPlusEncryptionTest.exe
+c:\users\endle\documents\visual studio 2015\Projects\PoGoPlusEncryptionTest\PoGoPlusEncryptionTest\obj\Debug\PoGoPlusEncryptionTest.pdb
